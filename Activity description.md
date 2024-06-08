@@ -1,16 +1,16 @@
-Construa uma variável do tipo MATRIZ já contendo os seguintes dados:
+Construct a variable of type MATRIZ already containing the following data:
 
-(0)       (1)
-0      Mercedez 250
-1      Volto 200
-2      VW 190
-3      GM 195
-4      BMW 240
-Essa matriz contém as marcas dos carros e suas velocidades máximas.
-Você não precisa informar os dados via teclado, essa matriz já deve
-ser construída na declaração da matriz.
+(0) (1)
+0 Mercedes 250
+1 Back 200
+2 VW 190
+3 GM 195
+4 BMW 240
+This matrix contains the makes of cars and their maximum speeds.
+You do not need to enter the data via keyboard, this matrix should already be
+be constructed in the matrix declaration.
 
-(a) Exiba na tela a terceira linha da matriz;
-(b) Exiba na tela apenas o número 200 que está na matriz;
-(c) Exiba na tela apenas a marca BMW
-(b) Faça a somatória de todas velocidades e exiba o resultado final na tela.
+(a) Display the third line of the matrix on the screen;
+(b) Display only the number 200 in the matrix on the screen;
+(c) Display only the BMW brand on the screen
+(b) Add up all speeds and display the final result on the screen.
